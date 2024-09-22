@@ -34,7 +34,7 @@ This Python script removes delete markers from an Amazon S3 bucket, effectively 
    - `bucket_name`: Your S3 bucket name
    - `aws_access_key_id`: Your AWS access key
    - `aws_secret_access_key`: Your AWS secret key
-   - `region_name`: The AWS region where your bucket is located (default is 'us-east-2')
+   - `region_name`: The AWS region where your bucket is located
 
 3. Save the changes.
 4. Run the script:
